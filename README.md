@@ -1,3 +1,5 @@
+Live preview of the website has been disabled due to cost mangement
+
 This is the code for https://odin-elbasel.vercel.app website.
 The original repo `OdinAi` has been made private for security reasons and so should yours if you plan to use GoogleVertexAi with your deployment.
 
