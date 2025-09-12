@@ -1,8 +1,3 @@
-Live preview of the website has been disabled due to cost mangement
-
-This is the code for https://odin-elbasel.vercel.app website.
-The original repo `OdinAi` has been made private for security reasons and so should yours if you plan to use GoogleVertexAi with your deployment.
-
 Built with NextJs13.4 making use of sever actions and server components.
 
 Most pages are generated SSR and revalidated on client-side user action with the help of a redis based database (vercel redis in this case).
